@@ -17,7 +17,7 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-050505?style=for-the-badge&logo=leetcode&logoColor=E50914)](https://leetcode.com/u/NarayaniDuttPandeyy/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-E50914?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/)
 
-</div>
+</div> 
 
 ---
 
