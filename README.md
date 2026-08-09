@@ -3,9 +3,7 @@
 <!-- ========================================================= -->
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/narayaniduttpanday/narayaniduttpanday/main/Spiderman-banner.svg" alt="NARAYANI DUTT PANDEY - Animated Spider Banner" width="100%" />
-
-<br/>
+<img src="https://raw.githubusercontent.com/narayaniduttpanday/narayaniduttpandey/main/Spiderman-banner.svg" alt="NARAYANI DUTT PANDEY - Animated Spider Banner" width="100%" />
 <br/>
 
 ### 🕷️ `EVERY NEW DAY IS A NEW BUILD.`
